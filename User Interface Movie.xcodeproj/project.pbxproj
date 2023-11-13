@@ -14,6 +14,7 @@
 		BF7C43402B009DC400347781 /* User_Interface_MovieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7C433F2B009DC400347781 /* User_Interface_MovieTests.swift */; };
 		BF7C434A2B009DC400347781 /* User_Interface_MovieUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7C43492B009DC400347781 /* User_Interface_MovieUITests.swift */; };
 		BF7C434C2B009DC400347781 /* User_Interface_MovieUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7C434B2B009DC400347781 /* User_Interface_MovieUITestsLaunchTests.swift */; };
+		BF7C43592B00A84A00347781 /* Small Movie Structure.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7C43582B00A84A00347781 /* Small Movie Structure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BF7C43452B009DC400347781 /* User Interface MovieUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "User Interface MovieUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF7C43492B009DC400347781 /* User_Interface_MovieUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User_Interface_MovieUITests.swift; sourceTree = "<group>"; };
 		BF7C434B2B009DC400347781 /* User_Interface_MovieUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User_Interface_MovieUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF7C43582B00A84A00347781 /* Small Movie Structure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Small Movie Structure.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				BF7C43352B009DC300347781 /* Preview Assets.xcassets */,
+				BF7C43582B00A84A00347781 /* Small Movie Structure.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				BF7C43312B009DC100347781 /* ContentView.swift in Sources */,
 				BF7C432F2B009DC100347781 /* User_Interface_MovieApp.swift in Sources */,
+				BF7C43592B00A84A00347781 /* Small Movie Structure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
